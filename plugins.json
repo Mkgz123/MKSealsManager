@@ -5,7 +5,7 @@
       "name": "快速排序",
       "version": "1.2.5",
       "description": "一个高效的排序算法插件，适用于大数据集的排序任务。",
-      "tags": ["排序", "算法", "效率"],
+      "tags": ["排序", "算法", "效率","占位插件"],
       "icon": "http://pluginsmarket.com/icons/quick-sort.png",
       "status": "重要更新",
       "downloadURL": "http://pluginsmarket.com/quick-sort-1.2.5.zip"
@@ -15,7 +15,7 @@
       "name": "图片压缩",
       "version": "2.1.0",
       "description": "一个图片压缩插件，可以显著减小图片文件的大小，同时保持较好的图像质量。",
-      "tags": ["图片", "压缩", "优化"],
+      "tags": ["图片", "压缩", "优化","占位插件"],
       "icon": "http://pluginsmarket.com/icons/image-compress.png",
       "status": "重新构建",
       "downloadURL": "http://pluginsmarket.com/image-compress-2.1.0.zip"
@@ -25,7 +25,7 @@
       "name": "文本编辑器",
       "version": "3.5.2",
       "description": "一个功能强大的文本编辑器插件，支持多种编程语言的语法高亮和代码补全。",
-      "tags": ["文本", "编辑", "编程"],
+      "tags": ["文本", "编辑", "编程","占位插件"],
       "icon": "http://pluginsmarket.com/icons/text-editor.png",
       "status": "稳定版本",
       "downloadURL": "http://pluginsmarket.com/text-editor-3.5.2.zip"
@@ -33,12 +33,12 @@
     {
       "id": "4e340aec-4f2e-4c5e-ae53-691b8ac3a0a0",
       "name": "篆刻管理系统",
-      "version": "3.5.2",
+      "version": "0.1.0",
       "description": "管理您收藏与练习的印章，记录您的成长旅程。",
       "tags": ["篆刻", "管理"],
-      "icon": "http://pluginsmarket.com/icons/text-editor.png",
+      "icon": "seal-plugin.svg",
       "status": "稳定版本",
-      "downloadURL": "http://pluginsmarket.com/text-editor-3.5.2.zip"
+      "downloadURL": ""
     }
   ]
 }
